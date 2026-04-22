@@ -13,7 +13,8 @@ As a group project, this work involved cross-functional collaboration in:
 
 ## 🛠️ System Features
 * **Drivetrain:** Differential drive using high-torque DC motors with encoder-driven feedback.
-* **Dual-Mode Navigation:** * **Spatial Awareness:** Ultrasonic sensors (HC-SR04) for wall-distance regulation.
+* **Dual-Mode Navigation:** *
+    * **Spatial Awareness:** Ultrasonic sensors (HC-SR04) for wall-distance regulation.
     * **Path Following:** IR Reflectance array for high-precision tracking of designated paths.
 * **Manipulation:** A servo-actuated arm designed for precision tasks within a defined workspace.
 
