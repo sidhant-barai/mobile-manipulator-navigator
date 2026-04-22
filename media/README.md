@@ -10,4 +10,4 @@ This folder contains the technical design artifacts and performance evidence for
 ## 📹 Performance Demonstration
 The video below showcases the final integrated test in the arena, demonstrating autonomous navigation and task execution.
 
-* **[sha256:f9a8d29eb8b248f4b35574fc9ca36549042da27edf81d2bc447fa05f87d34af2](YOUR_RELEASE_LINK_HERE)** *(Video is muted for professional presentation)*
+* **[https://github.com/sidhant-barai/mobile-manipulator-navigator/releases/download/v1.0/Project.Demo.mp4](YOUR_RELEASE_LINK_HERE)** *(Video is muted for professional presentation)*
