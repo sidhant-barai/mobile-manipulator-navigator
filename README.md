@@ -5,7 +5,8 @@ This repository documents the development of a fully autonomous mobile robot des
 
 ## 🛠️ System Architecture
 * **Controller:** Arduino Uno.
-* **Actuation:** * Differential drive using dual high-torque DC motors for locomotion.
+* **Actuation:**
+    * Differential drive using dual high-torque DC motors for locomotion.
     * Servo-actuated manipulator for environmental interaction (task execution).
 * **Sensors:**
     * **Dual Ultrasonic Sensors (HC-SR04):** Employed for real-time wall-distance regulation and spatial alignment.
@@ -15,7 +16,8 @@ This repository documents the development of a fully autonomous mobile robot des
 ## 💻 Technical Implementation
 * **Hybrid Control Strategy:** Implemented a state-machine in **C++** that intelligently manages transitions between ultrasonic wall-following and IR-based line tracking.
 * **Power Management:** Conducted a comprehensive power audit to calculate voltage and current requirements, ensuring stable operation for both logic and high-draw actuators.
-* **Simulation & Validation:** * Circuits and component interfacing were validated using **TinkerCAD**.
+* **Simulation & Validation:**
+    * Circuits and component interfacing were validated using **TinkerCAD**.
     * Mechanical parts were designed in **Fusion 360** and manufactured via **3D printing** and **Laser Cutting**.
 
 ## 📹 Performance Demo
