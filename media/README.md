@@ -10,4 +10,4 @@ This folder contains the technical design artifacts and performance evidence for
 ## 📹 Performance Demonstration
 The video below showcases the final integrated test in the arena, demonstrating autonomous navigation and task execution.
 
-* **[Watch the Autonomous Performance Video]sha256:f9a8d29eb8b248f4b35574fc9ca36549042da27edf81d2bc447fa05f87d34af2** *(Video is muted for professional presentation)*
+* **[Watch the Autonomous Performance Video](YOUR_RELEASE_LINK_HERE)** *(Video is muted for professional presentation)*
